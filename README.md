@@ -1,7 +1,12 @@
-# miPrimerRepo
-Un ejemplo de repositorio en github
+# git Flor basico
+Comando para flujo de git basico
+´´´sh
+git status
+git add . o git add -a
+git status
+git commit -m "descripcion del cambio del proyecto"
+git push
+´´´
 
-
-# Super Repositorio Nuevo
-Este es el mejor repositorio del mundo porque es mi primer repo.
-
+## Nota:
+Si no me dice quien soy , entonces necesito restaurar la PC.
